@@ -1,21 +1,39 @@
-# 👋 Hi, I’m @nullpointer-log
+# nullpointer-log
 
-中高年からの再スタートを切ったエンジニアです。  
-安全確保支援士試験の学習を中心に、競技プログラミング（AtCoder）、ISUCONへの挑戦、生成AIの活用など、幅広くリスキリングに取り組んでいます。
+**Embedded Software Engineer | Embedded Linux | RTOS | C/C++ | Python | Computer Vision**
 
-このGitHubでは、学習の過程で作成したコードや、技術ログ、資格試験の過去問解説などを発信していきます。
+組み込みソフトウェアの設計・開発・評価を中心に、長年にわたりソフトウェア開発に携わってきました。
 
----
+現在はフリーランスエンジニアとして、これまでの経験を基盤に、Embedded Linux、RTOS、IPC、画像処理、AIを活用したアプリケーション開発などに取り組んでいます。
 
-- 👀 **I’m interested in**: Cybersecurity / Cloud (AWS) / Web Development / Generative AI / Competitive Programming / ISUCON
-- 🌱 **Currently learning**: Information Security Specialist (支援士試験), Prompt Engineering, and Linux networking
-- 💬 **Blog**: Coming soon at [nullpointer-log.github.io](https://nullpointer-log.github.io) (技術ブログ準備中)
-- 💞️ **Looking to collaborate on**: Knowledge sharing, OSS learning projects, and security challenges
-- 📫 **How to reach me**: Contact form will be available on my blog (匿名運営中)
-- ⚡ **Fun fact**: I believe it's never too late to reboot your tech life 🚀
+## Technical Expertise
 
----
+- **Embedded Systems:** C/C++、評価ボード立ち上げ、デバッグ、性能評価
+- **Linux / RTOS:** Embedded Linux、RTOS、マルチコアシステム、IPC
+- **Application Development:** Python、Windowsアプリケーション
+- **Computer Vision:** OpenCV、画像処理、AI関連技術
+- **Development:** Git、ソースコード解析、AI-assisted development
 
-> 💡 _“学び続けることで、年齢を超えた技術者になれる。”_  
-> ― nullpointer-log
+## Projects
 
+### Hand Rehabilitation Tracker — In Development
+
+手指の運動状態の記録・可視化を目的とした個人開発アプリケーション。
+
+Codexを活用しながら、設計・実装・テスト・改善に取り組んでいます。
+
+実装内容や技術的な検証結果を今後公開予定です。
+
+## Engineering Interests
+
+- Embedded Linux / RTOS / IPC
+- Debugging and performance analysis
+- Computer Vision / AI
+- AI-assisted software development
+- Open-source software
+
+## Technical Blog
+
+[nullpointer-log | Engineering Notes](https://nullpointer-log.github.io/)
+
+技術調査、設計、実装、検証の過程で得た知見を公開しています。
